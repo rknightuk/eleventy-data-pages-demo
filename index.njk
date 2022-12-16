@@ -1,0 +1,10 @@
+---
+title: Workflows
+layout: base
+---
+
+<ul>
+  {%- for workflow in workflows %}
+    <li><a href="/workflows/{{ workflow.name | slug }}/">{{ workflow.name }}</a></li>
+  {% endfor -%}
+</ul>

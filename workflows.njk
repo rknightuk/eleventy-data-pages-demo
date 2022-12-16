@@ -1,0 +1,16 @@
+---
+pagination:
+  data: workflows
+  size: 1
+  alias: workflow
+permalink: '{{ workflow.name | slug }}/index.html'
+layout: base
+eleventyComputed:
+  title: "{{ workflow.name }}"
+---
+
+<img src="{{ workflow.icon }}" width="256" height="256">
+
+<p><em>{{ workflow.description }}</em></p>
+
+<p><a href="{{ workflow.link }}">Download version {{ workflow.version }}</a></p>

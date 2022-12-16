@@ -1,0 +1,25 @@
+[
+	{
+      "name": "Fathom Analytics",
+      "description": "View current visitors for your sites",
+      "version": "1.0.2",
+      "link": "https://github.com/rknightuk/alfred-workflows/blob/main/workflows/fathom-analytics",
+      "icon": "https://github.com/rknightuk/alfred-workflows/raw/main/workflows/fathom-analytics/src/icon.png"
+    },
+    {
+      "name": "Findmoji",
+      "description": "Find and paste emoji",
+      "version": "1.0.0",
+      "link": "https://github.com/rknightuk/alfred-workflows/blob/main/workflows/findmoji",
+      "icon": "https://github.com/rknightuk/alfred-workflows/raw/main/workflows/findmoji/src/icon.png"
+    },
+    {
+      "uid": "55F2C350-099A-46F7-8EB4-0A0B3417380D",
+      "name": "MicroMarks",
+      "description": "Manage your micro.blog bookmarks",
+      "version": "1.0.0",
+      "link": "https://github.com/rknightuk/alfred-workflows/blob/main/workflows/micromarks",
+      "screenshot": "https://raw.githubusercontent.com/rknightuk/alfred-workflows/main/workflows/micromarks/src/screenshot.png",
+      "icon": "https://github.com/rknightuk/alfred-workflows/raw/main/workflows/micromarks/src/icon.png"
+    }
+]
